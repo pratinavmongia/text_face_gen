@@ -1,6 +1,10 @@
 
 # Text to Face Generator
 Developed a model based on the Deep Convolutional GAN (DCGAN) architecture to generate human faces using text input (facial attribute).
+
+## Demo
+![Screenshot 2024-11-25 132049](https://github.com/user-attachments/assets/2e8c9d9a-1179-44d1-bd47-2c8e428529cf)
+
 ## Metrics
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -9,7 +13,6 @@ Developed a model based on the Deep Convolutional GAN (DCGAN) architecture to ge
   </tr>
 </table>
 
-## Demo
-![Screenshot 2024-11-25 132049](https://github.com/user-attachments/assets/2e8c9d9a-1179-44d1-bd47-2c8e428529cf)
+
 
 
